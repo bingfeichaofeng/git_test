@@ -16,5 +16,6 @@ public class TestApplication {
         System.out.println("Hello Git master test");
         System.out.println("Hello Git Hot-fix test");
         System.out.println("Push To GitHub");
+        System.out.println("Pull To IDEA");
     }
 }
